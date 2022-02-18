@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 1200px;
+    margin: 20px auto;
+}
+
+/* Header */
+header{
+    height: 100px;
+    background-color: purple;
+}
+
+/* Main */
+main{
+height: 600px;
+}
+
+/* Footer */
+footer{
+    height: 100px;
+    background-color: blueviolet;
+}
