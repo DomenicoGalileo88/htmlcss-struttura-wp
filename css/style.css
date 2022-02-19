@@ -29,8 +29,13 @@ header{
 }
 
 .site_nav{
-    height: 40%;
+    width: 1200px;
+    height: 32px;
     background-color: rgb(168 0 0 / 21%);
+    position: fixed;
+    top: 67px;
+    left: 159px;
+    z-index: 1;
 }
 
 
